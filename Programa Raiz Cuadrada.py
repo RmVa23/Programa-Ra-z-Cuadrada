@@ -19,5 +19,4 @@ while numero<0:
 if intentos<2:
     solucion=math.sqrt(numero)
     print("La raíz cuadrada de " + str(numero) + " es: " + str(solucion))
-
-
+    print("El programa ha finalizado.")
